@@ -1,0 +1,12 @@
+{
+    "hashes": {
+        "checkpoint/v1-5-pruned-emaonly.safetensors": {
+            "mtime": 1683358484.2009592,
+            "sha256": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa"
+        },
+        "checkpoint/henmixReal_v22.safetensors": {
+            "mtime": 1681671981.259351,
+            "sha256": "b41db754cbee68a457be75571fb3b17175977bfb014e474048285d000316378b"
+        }
+    }
+}
